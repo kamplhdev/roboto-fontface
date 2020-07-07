@@ -1,6 +1,6 @@
 {
   "name": "@kamplhdev/roboto-fontface",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A package providing the Roboto fontface.",
   "main": "example.css",
   "scripts": {
