@@ -1,0 +1,21 @@
+{
+  "name": "@kamplhdev/roboto-fontface",
+  "version": "1.0.0",
+  "description": "A package providing the Roboto fontface.",
+  "main": "example.css",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamplhdev/roboto-fontface.git"
+  },
+  "keywords": [
+    "roboto",
+    "font",
+    "fontface"
+  ],
+  "author": "kamplhdev@gmail.com",
+  "license": "ISC",
+  "homepage": "https://github.com/kamplhdev/roboto-fontface"
+}
